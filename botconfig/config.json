@@ -1,0 +1,70 @@
+{
+  "token": "ODk5MjU1NjI2MTcyMDg4MzYw.YWwHEA.U5eOLBuuJRwn_sl3yIoRVA4YG6w",
+  "mongo": "mongodb+srv://DeaDShoT:Agentdevil810@walkmanmusic.tll5i.mongodb.net/test?retryWrites=true&w=majority",
+  "prefix": "--",
+  "clientsettings": {
+    "nodes": [
+      {
+        "host": "lava.link",
+        "port": 80,
+        "password": "lava",
+        "retryDelay": 4000,
+        "secure": false
+      },
+       {
+        "host": "disbotlistlavalink.ml",
+        "port": 443,
+        "password": "LAVA",
+        "retryDelay": 4000,
+        "secure": true
+      },
+      {
+        "host": "lavalink-repl.deadshot8101.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "retryDelay": 4000,
+        "secure": true
+      },
+      {
+        "host": "main.deadshot8101.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "retryDelay": 4000,
+        "secure": true 
+      }
+    ]
+  },
+  "spotify": {
+    "clientSecret": "bdbfea29444c451d95c03581480e34ae",
+    "clientID": "be8b7b2b80c5464bb85bb30bb632e236"
+  },
+  "settings": {
+    "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": ":<:s_progress:866946355891929098>",
+    "leaveOnEmpty_Channel": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+  "links": {
+    "server": "https://discord.gg/7FyA2Wrx",
+    "opbotinv": "https://discord.com/api/oauth2/authorize?client_id=870333668768493578&permissions=8&scope=bot%20applications.commands",
+    "opmusicinv": "https://discord.com/api/oauth2/authorize?client_id=870333668768493578&permissions=8&scope=bot%20applications.commands",
+    "opmusic2inv": "https://discord.com/api/oauth2/authorize?client_id=870333668768493578&permissions=8&scope=bot%20applications.commands",
+    "opmusic3inv": "https://discord.com/api/oauth2/authorize?client_id=870333668768493578&permissions=8&scope=bot%20applications.commands",
+    "opmusicvote": "https://discord.gg/2UXm5UnvBd"
+  },
+  "ownerIDS": [
+    "801404883542605854",
+    "801404883542605854",
+    "801404883542605854",
+    "801404883542605854",
+      "801404883542605854"
+  ]
+}
